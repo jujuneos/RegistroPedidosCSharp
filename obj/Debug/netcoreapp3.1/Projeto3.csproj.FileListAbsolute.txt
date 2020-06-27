@@ -1,0 +1,13 @@
+/home/jujuneos/Área de Trabalho/Studying/Projeto3/bin/Debug/netcoreapp3.1/Projeto3
+/home/jujuneos/Área de Trabalho/Studying/Projeto3/bin/Debug/netcoreapp3.1/Projeto3.deps.json
+/home/jujuneos/Área de Trabalho/Studying/Projeto3/bin/Debug/netcoreapp3.1/Projeto3.runtimeconfig.json
+/home/jujuneos/Área de Trabalho/Studying/Projeto3/bin/Debug/netcoreapp3.1/Projeto3.runtimeconfig.dev.json
+/home/jujuneos/Área de Trabalho/Studying/Projeto3/bin/Debug/netcoreapp3.1/Projeto3.dll
+/home/jujuneos/Área de Trabalho/Studying/Projeto3/bin/Debug/netcoreapp3.1/Projeto3.pdb
+/home/jujuneos/Área de Trabalho/Studying/Projeto3/obj/Debug/netcoreapp3.1/Projeto3.csprojAssemblyReference.cache
+/home/jujuneos/Área de Trabalho/Studying/Projeto3/obj/Debug/netcoreapp3.1/Projeto3.AssemblyInfoInputs.cache
+/home/jujuneos/Área de Trabalho/Studying/Projeto3/obj/Debug/netcoreapp3.1/Projeto3.AssemblyInfo.cs
+/home/jujuneos/Área de Trabalho/Studying/Projeto3/obj/Debug/netcoreapp3.1/Projeto3.csproj.CoreCompileInputs.cache
+/home/jujuneos/Área de Trabalho/Studying/Projeto3/obj/Debug/netcoreapp3.1/Projeto3.dll
+/home/jujuneos/Área de Trabalho/Studying/Projeto3/obj/Debug/netcoreapp3.1/Projeto3.pdb
+/home/jujuneos/Área de Trabalho/Studying/Projeto3/obj/Debug/netcoreapp3.1/Projeto3.genruntimeconfig.cache
